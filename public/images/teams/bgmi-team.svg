@@ -1,0 +1,6 @@
+<svg width="1600" height="1000" viewBox="0 0 1600 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="1000" fill="#0A0A0A"/>
+  <rect x="120" y="120" width="1360" height="760" rx="40" fill="#111827"/>
+  <path d="M240 720L460 360L640 610L860 340L1120 640L1360 420" stroke="#F87171" stroke-width="18" stroke-linecap="round"/>
+  <text x="220" y="280" fill="#F4F4F5" font-family="Arial" font-size="88" font-weight="700">ALVION BGMI</text>
+</svg>

@@ -1,0 +1,9 @@
+<svg width="1200" height="1200" viewBox="0 0 1200 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="1200" fill="#09090B"/>
+  <rect x="140" y="140" width="920" height="920" rx="40" fill="#18181B" stroke="#52525B" stroke-opacity="0.45"/>
+  <path d="M240 840C330 690 440 640 600 640C760 640 870 690 960 840" stroke="#DC2626" stroke-opacity="0.75" stroke-width="30"/>
+  <circle cx="420" cy="500" r="60" fill="#E4E4E7" fill-opacity="0.8"/>
+  <circle cx="600" cy="460" r="70" fill="#DC2626" fill-opacity="0.85"/>
+  <circle cx="780" cy="500" r="60" fill="#E4E4E7" fill-opacity="0.8"/>
+  <text x="320" y="300" fill="white" fill-opacity="0.9" font-family="Arial" font-size="64" font-weight="700">TEAMWORK</text>
+</svg>
